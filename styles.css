@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#logs {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #f5f5f5;
+}
+
+#buttons {
+  text-align: center;
+  margin-top: 10px;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 15px;
+  font-size: 16px;
+}
